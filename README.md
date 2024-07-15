@@ -4,8 +4,9 @@
 
 <p align="left"> 
   Hello There!! Our Senior Java Developer is a seasoned pro who seamlessly blends Java expertise with Python skills, n8n automation know-how, and a deep understanding of Spring Boot and Spring. With years of experience under his belt, he handles complex coding challenges with ease and has a knack for making automation work smoothly.
-  In addition to his <strong>Java and Python </strong>strong> prowess, he's well-versed in <strong>AWS features </strong>strong> like Lambda and Azure DevOps for CI/CD. In his spare time, he might be found tinkering with Python scripts or brewing the perfect cup of coffee (Java, of course!). And fun fact: he enlisted ChatGPT to help craft this description, proving that even the best developers enjoy a little AI assistance now and then.    
-  Hello there! I'm a aspiring <strong>Java developer</strong> currently pursuing a degree in <strong>Systems Analysis</strong>.
+</p>
+<p align="left"> 
+  In addition to his <strong>Java and Python </strong>strong> prowess, he's well-versed in <strong>AWS features </strong>strong> like Lambda and Azure DevOps for CI/CD. In his spare time, he might be found tinkering with Python scripts or brewing the perfect cup of coffee (Java, of course!). And fun fact: he enlisted ChatGPT to help craft this description, proving that even the best developers enjoy a little AI assistance now and then. 
 </p>
 
 <p align="left">
